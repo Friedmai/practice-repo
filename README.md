@@ -2,10 +2,10 @@
 Practice setting up a new repo for workshop
 
 ## Top 5 Movies I Like
-- Jurassic Park
-- Alien
-- Mission Impossible
-- IT
+- Requiem for a Heavyweight
+- Alienz
+- Spy Hard
+- In the Mood for Love
 - Apocalypse Now
 
 ## Top 5 Books I Like
